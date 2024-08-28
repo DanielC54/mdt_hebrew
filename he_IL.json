@@ -52,8 +52,8 @@
   },
 
   "REPORTS": {
-    "LABEL": "צווים",
-    "EDIT": "ערוך צו {id}"
+    "LABEL": "דיווחים",
+    "EDIT": "ערוך דיווח {id}"
   },
 
   "BOLOS_WARRANTS": {
